@@ -4,3 +4,7 @@ Paso 1: Registrar una cuenta de Github
 El primer paso para comenzar con el alojamiento en Github es crear
 una cuenta personal, VIsite la pagina de registro oficial para
 registrarse.
+
+Paso 2: Crear un repositorio remoto en Github
+Despues de registrarse, crear un home (Un repositorio) en Github
+para el repositorio Git que quieres compartir
